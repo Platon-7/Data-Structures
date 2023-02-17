@@ -1,1 +1,1 @@
-Είναι πιθανό να υπάρξουν errors στα compilations στο cmd. Έχουμε οδηγίες στο τέλος του PDF για την αντιμετώπιση τους.
+It is possible to face some errors during the compilation phase in cmd. We added instructions at the end of the PDF on how to deal with them.

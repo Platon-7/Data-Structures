@@ -1,3 +1,2 @@
-Τα αρχεία τα έχουμε παραδώσει για δική σας διευκόλυνση με τέτοιο τρόπο ώστε να μπορείτε να τα τρέξετε σε cmd
-ή ότι άλλο θέλετε. Στο cmd τα κάναμε compile με javac src/Classname.java και run με java src.Main. Για να διαβαστεί
-το αρχείο jester.txt ή κάποιο δικό σας, αρκεί να δώσετε ως input το path του.
+The files have been uploaded in a way that you can run it with cmd or any other IDE. When using cmd we compiled with javac src/Classname.java and run
+with java src.Main. To read jester.txt or another file all you need to do is pass the path as an input.
